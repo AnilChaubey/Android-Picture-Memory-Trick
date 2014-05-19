@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Picture Memory Trick</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_title">Welocme to Picture Memory Trick Game</string>
+    <string name="welcome_text">The game has two sections, one is for kids and another one for adults.Kids will be presented with simple 
+        alphabets to match with and adults will be presented with difficult and hard to remember pictures to play with.</string>
+    <string name="kids">For Kids</string>
+    <string name="adults">For Adults</string>
+    <string name="title_activity_picture_manager">Picture Memory Trick</string>
+    <string name="mainTitle">Picture Memory Trick</string>
+    
+    <string-array name="type">
+        <item>Select difficulty level</item>
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+        <item>Expert</item>
+        <item>Master</item>
+    </string-array>
+
+</resources>
